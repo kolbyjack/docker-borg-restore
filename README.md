@@ -5,7 +5,7 @@ To use, mount the volumes you wish to restore under /restore, then configure the
 |Secret|Description|
 |---|---|
 |`borg_ssh_key`|The private key used for remote backups|
-|`borg_passphrase`|The passphrase to use with `repokey` encrypted repositories (Required when `BORG_ENCRYPTION` is `repokey`)|
+|`borg_passphrase`|The passphrase to use with `repokey` encrypted repositories|
 
 |Variable|Default|Description|
 |---|---|---|
